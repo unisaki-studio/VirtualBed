@@ -1,8 +1,9 @@
 using UnityEngine;
+using VRC.SDKBase;
 
 namespace jp.unisakistudio.virtualbed
 {
-    public class VirtualBed : MonoBehaviour
+    public class VirtualBed : MonoBehaviour, IEditorOnly
     {
         [HideInInspector]
         public bool isVirtualLoveBoyLicensed = false;
