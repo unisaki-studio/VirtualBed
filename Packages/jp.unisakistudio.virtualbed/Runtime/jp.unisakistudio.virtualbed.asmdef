@@ -1,0 +1,22 @@
+{
+    "name": "jp.unisakistudio.virtualbed",
+    "rootNamespace": "",
+    "references": [
+        "GUID:825b9a72d3c257c4fa790ca6cc5d6acb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "jp.unisakistudio.virtuallove",
+            "expression": "",
+            "define": "VIRTUAL_LOVE"
+        }
+    ],
+    "noEngineReferences": false
+}

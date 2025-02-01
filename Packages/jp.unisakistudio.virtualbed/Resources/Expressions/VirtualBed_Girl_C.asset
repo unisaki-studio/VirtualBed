@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: VirtualBed_Girl_C
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: c8cde70358e2b7f41bc2b6e399eb2582, type: 2}
+  controls:
+  - name: "C1-\u5F8C\u80CC\u4F4D"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: USS_VB_BedType
+    value: 31
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "C2-\u5F8C\u80CC\u4F4D\u306E\u3057\u304B\u304B\u308A"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: USS_VB_BedType
+    value: 32
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "C3-\u5BDD\u30D0\u30C3\u30AF"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: USS_VB_BedType
+    value: 33
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "C4-\u7ACB\u3061\u30D0\u30C3\u30AF"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: USS_VB_BedType
+    value: 34
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

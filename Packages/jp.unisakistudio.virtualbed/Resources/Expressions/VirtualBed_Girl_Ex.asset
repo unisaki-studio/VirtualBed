@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: VirtualBed_Girl_Ex
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: c8cde70358e2b7f41bc2b6e399eb2582, type: 2}
+  controls:
+  - name: "Ex-\u5BFE\u9762\u99C5\u5F01"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: USS_VB_BedType
+    value: 39
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "Ex-\u80CC\u9762\u99C5\u5F01"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: USS_VB_BedType
+    value: 40
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "Ex-I\u5B57\u30C1\u30E3\u30EC\u30F3\u30B8"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: USS_VB_BedType
+    value: 41
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "Ex-JackO\u30C1\u30E3\u30EC\u30F3\u30B8"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: USS_VB_BedType
+    value: 42
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "Ex-M\u5B57\u958B\u811A"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: USS_VB_BedType
+    value: 43
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
