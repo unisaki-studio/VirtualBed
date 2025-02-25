@@ -1,7 +1,7 @@
 {
     "name":"三点でいいよツール",
     "id":"jp.unisakistudio.virtualbed",
-    "url":"https://UnisakiStudio.github.io/VirtualBed/index.json",
+    "url":"https://unisaki-studio.github.io/VirtualBed/index.json",
     "author":{
         "email":"unisaki.studio@gmail.com",
         "name":"UnisakiStudio",
@@ -9,11 +9,11 @@
     },
     "description":"三点でいいよツールは、別のユーザーに特定のポーズを取れるようにするためのVRChatアバター向けギミックの設定ツールです",
     "infoLink":{
-        "url":"https://github.com/UnisakiStudio/VirtualBed",
+        "url":"https://github.com/unisaki-studio/VirtualBed",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "UnisakiStudio/VirtualBed"
+        "unisaki-studio/VirtualBed"
     ]
 }
