@@ -19,6 +19,6 @@
     "jp.unisakistudio.virtuallove": "2.0.0"
   },
   "vpmDependencies": {
-    "jp.unisakistudio.virtuallove": "2.0.0"
+    "jp.unisakistudio.virtuallove": "^2.0.0"
   }
 }
