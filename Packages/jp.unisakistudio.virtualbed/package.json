@@ -16,9 +16,9 @@
   "url": "https://github.com/UnisakiStudio/VirtualBed/releases/download/2.0.0/jp.unisakistudio.virtualbed-2.0.0.zip?",
   "repo": "https://github.com/UnisakiStudio/VirtualBed",
   "dependencies": {
-    "jp.unisakistudio.virtuallove": "2.0.0"
+    "jp.unisakistudio.virtuallove": "^2.0.0"
   },
   "vpmDependencies": {
-    "jp.unisakistudio.virtuallove": "2.0.0"
+    "jp.unisakistudio.virtuallove": "^2.0.0"
   }
 }
